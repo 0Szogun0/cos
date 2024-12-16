@@ -1,0 +1,3 @@
+run command for repl 
+
+g++ main.cpp -o main && ./main
